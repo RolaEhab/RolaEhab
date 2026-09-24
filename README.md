@@ -2,9 +2,9 @@
 
 Bachelor's in Data Science from the Faculty of Computers and Data Science, Alexandria University — CGPA: **3.62**
 
-I work at the intersection of **Data Science, Machine Learning, and Applied AI**, with a focus on building end-to-end systems that turn data into practical solutions.
+I work mainly with **Data Science, Machine Learning, and Applied AI** topics, focused on building end-to-end systems that turn data into practical solutions.
 
-My interests span machine learning, deep learning, computer vision, NLP, graph-based learning, and data analytics.
+My interests span machine learning, deep learning, computer vision, NLP, and data analytics.
 
 [![Email](https://img.shields.io/badge/Email-rolaehab054%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rolaehab054@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rola%20Elabd-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolaelabd/)
@@ -97,14 +97,6 @@ The distraction detection model achieved an **89% mAP50**, and the system also s
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Rola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolaEhab&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RolaEhab&layout=compact&hide_border=true)
 
 ---
 
